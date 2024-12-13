@@ -29,8 +29,7 @@ A Python-based application to recognize hand gestures and trigger actions like l
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/gesture-control-app.git
-cd gesture-control-app
+git clone https://github.com/CS-Astronaut/Hand-Gesture-Recognizer.git
 ```
 
 ### 2️⃣ Create a Virtual Environment
