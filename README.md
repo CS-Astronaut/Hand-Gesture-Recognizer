@@ -57,7 +57,7 @@ python3 -m venv venv
 ### 4️⃣ Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install opencv-python mediapipe pyautogui numpy PyQt5
 ```
 
 ### 5️⃣ Initialize the Database
