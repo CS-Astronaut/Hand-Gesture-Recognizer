@@ -124,5 +124,5 @@ This project uses the following Python libraries:
 
 | Gesture Recognition |                |
 | ------------------- | -------------- |
-| ![[SCRS1.png]]      | ![[SCRS3.png]] |
-| ![[SCRS2.png]]      | ![[SCRS4.png]] |
+| ![Screenshot](/SRCS/SCRS1.png) | ![Screenshot](/SRCS/SCRS3.png) |
+| ![Screenshot](/SRCS/SCRS2.png) | ![Screenshot](/SRCS/SCRS4.png) |
