@@ -124,5 +124,5 @@ This project uses the following Python libraries:
 
 | Gesture Recognition |                |
 | ------------------- | -------------- |
-| ![Screenshot](/SRCS/SCRS1.png) | ![Screenshot](/SRCS/SCRS3.png) |
-| ![Screenshot](/SRCS/SCRS2.png) | ![Screenshot](/SRCS/SCRS4.png) |
+| ![Screenshot](https://github.com/CS-Astronaut/Hand-Gesture-Recognizer/blob/main/scrs/SCRS1.png) | ![Screenshot](https://github.com/CS-Astronaut/Hand-Gesture-Recognizer/blob/main/scrs/SCRS3.png) |
+| ![Screenshot](https://github.com/CS-Astronaut/Hand-Gesture-Recognizer/blob/main/scrs/SCRS2.png) | ![Screenshot](https://github.com/CS-Astronaut/Hand-Gesture-Recognizer/blob/main/scrs/SCRS4.png) |
